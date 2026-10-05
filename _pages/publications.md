@@ -9,13 +9,15 @@ author_profile: true
 <div class="pub-filter-bar" style="margin-bottom: 25px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <span style="font-size: 0.9em; font-weight: bold; margin-right: 5px; color: #ddd;">Filter by tag:</span>
   <button class="pub-filter-btn active" onclick="filterPubs('all', this)" style="cursor: pointer; background: #000; color: #fff; border: 1px solid #555; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">All</button>
-  <button class="pub-filter-btn" onclick="filterPubs('particle-flow', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Particle Flow</button>
+  <button class="pub-filter-btn" onclick="filterPubs('particle-flow', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Particle Flow Filter</button>
+  <button class="pub-filter-btn" onclick="filterPubs('gaussian-mixture', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Gaussian Mixture Filter</button>
   <button class="pub-filter-btn" onclick="filterPubs('navigation', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Navigation</button>
-  <button class="pub-filter-btn" onclick="filterPubs('tracking', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Multi-Object Tracking</button>
-  <button class="pub-filter-btn" onclick="filterPubs('ml', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Machine Learning</button>
+  <button class="pub-filter-btn" onclick="filterPubs('robotics', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Robotics</button>
+  <button class="pub-filter-btn" onclick="filterPubs('tracking', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Multi-Object Tracking/Tracking</button>
+  <button class="pub-filter-btn" onclick="filterPubs('survey', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Survey</button>
 </div>
 
-<div style="margin: 0 0 15px 0; color: #aaa; font-size: 0.95em;"><em>*Selected publications are marked with an asterisk.</em></div>
+<div style="margin: 0 0 15px 0; color: #aaa; font-size: 0.95em;"><em>Selected publications are marked with an asterisk*.</em></div>
 
 <!-- CONTAINER FOR PUBLICATIONS -->
 <div id="publications-container">
@@ -24,92 +26,94 @@ author_profile: true
 
   <h2 style="color: #fff; border-bottom: 1px solid #3d4451; padding-bottom: 5px;">Peer-reviewed Journal Articles</h2>
 
-  <div class="pub-item" data-tags="particle-flow navigation">
-    <span class="pub-num"><strong>*7.</strong></span>
+  <div class="pub-item" data-tags="particle-flow survey">
+    <span class="pub-num"><strong>7.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
-        <span class="pub-title">The ultimate hitchhiker's guide to particle flow-based filters: A survey</span>
+        <span class="pub-title">The ultimate hitchhiker's guide to particle flow-based filters: A survey*</span>
+        <!--
         <span class="pub-badges">
           <a href="#" class="pub-badge">arXiv</a>
           <a href="#" class="pub-badge">doi</a>
         </span>
+        -->
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong>, Daniel Frisch and Uwe D. Hanebeck, prepared for <em>Automatica</em> (2026)</div>
     </div>
   </div>
 
-  <div class="pub-item" data-tags="particle-flow navigation">
-    <span class="pub-num"><strong>*6.</strong></span>
+  <div class="pub-item" data-tags="gaussian-mixture">
+    <span class="pub-num"><strong>6.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
-        <span class="pub-title">DBSCAN-based particle Gaussian mixture filters</span>
+        <span class="pub-title">DBSCAN-based particle Gaussian mixture filters*</span>
         <span class="pub-badges">
-          <a href="https://doi.org/10.1016/j.dsp.2026.105546" target="_blank" class="pub-badge">doi</a>
+          <a href="https://doi.org/10.1016/j.dsp.2026.105546" target="_blank" rel="noopener" rel="noopener" class="pub-badge">doi</a>
         </span>
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong>, Mengwei Sun, Ivan Petrunin and Hyo-Sang Shin, <em>Digital Signal Processing</em> (2026)</div>
     </div>
   </div>
 
-  <div class="pub-item" data-tags="ml">
-    <span class="pub-num"><strong>*5.</strong></span>
+  <div class="pub-item" data-tags="survey">
+    <span class="pub-num"><strong>5.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
-        <span class="pub-title">A review of Bayes filters with machine learning techniques and their applications</span>
+        <span class="pub-title">A review of Bayes filters with machine learning techniques and their applications*</span>
         <span class="pub-badges">
-          <a href="https://doi.org/10.1016/j.inffus.2024.102707" target="_blank" class="pub-badge">doi</a>
+          <a href="https://doi.org/10.1016/j.inffus.2024.102707" target="_blank" rel="noopener" class="pub-badge">doi</a>
         </span>
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong>, Ivan Petrunin and Hyo-Sang Shin, <em>Information Fusion</em> (2025)</div>
     </div>
   </div>
 
-  <div class="pub-item" data-tags="tracking">
+  <div class="pub-item" data-tags="tracking robotics">
     <span class="pub-num"><strong>4.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
         <span class="pub-title">AFJPDA: A multiclass multi-object tracking with appearance feature-aided joint probabilistic data association</span>
         <span class="pub-badges">
-          <a href="#" target="_blank" class="pub-badge">doi</a>
+          <a href="https://doi.org/10.2514/1.I011301" target="_blank" rel="noopener" class="pub-badge">doi</a>
         </span>
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong>, Ivan Petrunin and Hyo-Sang Shin, <em>Journal of Aerospace Information Systems</em> (2024)</div>
     </div>
   </div>
 
-  <div class="pub-item" data-tags="navigation">
+  <div class="pub-item" data-tags="navigation robotics">
     <span class="pub-num"><strong>3.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
         <span class="pub-title">Vision-based pose estimation of fixed-wing aircraft using you only look once and perspective-n-points</span>
         <span class="pub-badges">
-          <a href="#" target="_blank" class="pub-badge">doi</a>
+          <a href="https://doi.org/10.2514/1.I010975" target="_blank" rel="noopener" class="pub-badge">doi</a>
         </span>
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong>, Jeongho Kim, Jihoon Park and Daewoo Lee, <em>Journal of Aerospace Information Systems</em> (2021)</div>
     </div>
   </div>
 
-  <div class="pub-item" data-tags="navigation">
+  <div class="pub-item" data-tags="navigation robotics">
     <span class="pub-num"><strong>2.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
         <span class="pub-title">Mission planning and performance verification of an unmanned surface vehicle using a genetic algorithm</span>
         <span class="pub-badges">
-          <a href="#" target="_blank" class="pub-badge">doi</a>
+          <a href="https://doi.org/10.1016/j.ijnaoe.2021.07.002" target="_blank" rel="noopener" class="pub-badge">doi</a>
         </span>
       </div>
       <div class="pub-details">Jihoon Park, <strong>Sukkeun Kim</strong>, Geemoon Noh, Hyeongmin Kim, Daewoo Lee and Inwon Lee, <em>International Journal of Naval Architecture and Ocean Engineering</em> (2021)</div>
     </div>
   </div>
 
-  <div class="pub-item" data-tags="navigation">
+  <div class="pub-item" data-tags="navigation robotics">
     <span class="pub-num"><strong>1.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
         <span class="pub-title">Development of a vision-based recognition and position measurement system for cooperative missions of multiple heterogeneous unmanned vehicles</span>
         <span class="pub-badges">
-          <a href="#" target="_blank" class="pub-badge">doi</a>
+          <a href="https://doi.org/10.1007/s42405-021-00355-1" target="_blank" rel="noopener" class="pub-badge">doi</a>
         </span>
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong>, Jihoon Park, Dongin Han, Eunsoo Kim and Daewoo Lee, <em>International Journal of Aeronautical and Space Sciences</em> (2021)</div>
@@ -121,66 +125,66 @@ author_profile: true
   <!-- Peer-reviewed Conferences -->
   <h2 style="color: #fff; border-bottom: 1px solid #3d4451; padding-bottom: 5px;">Peer-reviewed Conferences</h2>
 
-  <div class="pub-item" data-tags="particle-flow navigation">
-    <span class="pub-num"><strong>*5.</strong></span>
+  <div class="pub-item" data-tags="particle-flow survey">
+    <span class="pub-num"><strong>5.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
         <span class="pub-title">The hitchhiker's guide to particle flow-based filters: A survey</span>
         <span class="pub-badges">
-          <a href="#" class="pub-badge">arXiv</a>
-          <a href="#" class="pub-badge">doi</a>
+          <a href="https://isas.iar.kit.edu/pdf/IFAC26_Kim.pdf" target="_blank" rel="noopener" class="pub-badge">pdf</a>
         </span>
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong> and Uwe D. Hanebeck, <em>Proceedings of the 23rd IFAC World Congress (IFAC 2026)</em></div>
     </div>
   </div>
 
-  <div class="pub-item" data-tags="particle-flow">
+  <div class="pub-item" data-tags="particle-flow tracking">
     <span class="pub-num"><strong>4.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
-        <span class="pub-title">Deterministic prior sample set prediction approaches for newton-flow particle filters</span>
+        <span class="pub-title">Deterministic prior sample set prediction approaches for Newton-flow particle filters</span>
         <span class="pub-badges">
-          <a href="#" class="pub-badge">arXiv</a>
+          <a href="https://isas.iar.kit.edu/pdf/FUSION26_Kim.pdf" target="_blank" rel="noopener" class="pub-badge">pdf</a>
         </span>
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong> and Uwe D. Hanebeck, <em>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)</em></div>
     </div>
   </div>
 
-  <div class="pub-item" data-tags="particle-flow navigation">
-    <span class="pub-num"><strong>*3.</strong></span>
+  <div class="pub-item" data-tags="gaussian-mixture navigation robotics">
+    <span class="pub-num"><strong>3.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
-        <span class="pub-title">Autonomous robotic radio source localization via a novel gaussian mixture filtering approach</span>
+        <span class="pub-title">Autonomous robotic radio source localization via a novel Gaussian mixture filtering approach*</span>
         <span class="pub-badges">
-          <a href="#" class="pub-badge">doi</a>
+          <a href="https://arxiv.org/abs/2503.10349" class="pub-badge">arXiv</a>
+          <a href="https://doi.org/10.23919/FUSION65864.2025.11124026" target="_blank" rel="noopener" class="pub-badge">doi</a>
         </span>
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong>, Sangwoo Moon, Ivan Petrunin, Hyo-Sang Shin, and Shehryar Khattak, <em>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)</em></div>
     </div>
   </div>
 
-  <div class="pub-item" data-tags="navigation">
+  <div class="pub-item" data-tags="survey">
     <span class="pub-num"><strong>2.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
         <span class="pub-title">A design of VFR approach and departure procedures of UAM at vertiports adjacent to the airport</span>
         <span class="pub-badges">
-          <a href="#" class="pub-badge">doi</a>
+          <a href="https://www.icas.org/icas_archive/icas2024/data/papers/icas2024_0110_paper.pdf" target="_blank" rel="noopener" class="pub-badge">pdf</a>
         </span>
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong>, On Park, and Hyo-Sang Shin, <em>Proceedings of the 34th Congress of the International Council of the Aeronautical Sciences (ICAS 2024)</em></div>
     </div>
   </div>
 
-  <div class="pub-item" data-tags="ml">
-    <span class="pub-num"><strong>*1.</strong></span>
+  <div class="pub-item" data-tags="survey">
+    <span class="pub-num"><strong>1.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
         <span class="pub-title">A review of Kalman filter with artificial intelligence techniques</span>
         <span class="pub-badges">
-          <a href="#" class="pub-badge">doi</a>
+          <a href="https://doi.org/10.1109/ICNS54818.2022.9771520" target="_blank" rel="noopener" class="pub-badge">doi</a>
         </span>
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong>, Ivan Petrunin, and Hyo-Sang Shin, <em>Proceedings of the 22nd Integrated Communication, Navigation and Surveillance Conference (ICNS 2022)</em></div>
