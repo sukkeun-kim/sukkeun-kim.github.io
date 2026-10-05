@@ -6,29 +6,29 @@ author_profile: true
 ---
 
 Here is a list of my peer-reviewed journal and conference papers. 
-<div style="margin: 0 0 15px 0; color: #555; font-size: 0.95em;"><em>*Selected publications are marked with an asterisk.</em></div>
+<div style="margin: 0 0 15px 0; color: #aaa; font-size: 0.95em;"><em>*Selected publications are marked with an asterisk.</em></div>
 
 <!-- Filter Bar -->
 <div class="pub-filter-bar" style="margin-bottom: 25px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-  <span style="font-size: 0.9em; font-weight: bold; margin-right: 5px; color: #444;">Filter by tag:</span>
-  <button class="pub-filter-btn active" onclick="filterPubs('all', this)" style="cursor: pointer; background: #000; color: #fff; border: 1px solid #000; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">All</button>
-  <button class="pub-filter-btn" onclick="filterPubs('particle-flow', this)" style="cursor: pointer; background: #f1f1f1; color: #333; border: 1px solid #ddd; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Particle Flow</button>
-  <button class="pub-filter-btn" onclick="filterPubs('navigation', this)" style="cursor: pointer; background: #f1f1f1; color: #333; border: 1px solid #ddd; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Navigation</button>
-  <button class="pub-filter-btn" onclick="filterPubs('tracking', this)" style="cursor: pointer; background: #f1f1f1; color: #333; border: 1px solid #ddd; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Multi-Object Tracking</button>
-  <button class="pub-filter-btn" onclick="filterPubs('ml', this)" style="cursor: pointer; background: #f1f1f1; color: #333; border: 1px solid #ddd; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Machine Learning</button>
+  <span style="font-size: 0.9em; font-weight: bold; margin-right: 5px; color: #ddd;">Filter by tag:</span>
+  <button class="pub-filter-btn active" onclick="filterPubs('all', this)" style="cursor: pointer; background: #000; color: #fff; border: 1px solid #555; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">All</button>
+  <button class="pub-filter-btn" onclick="filterPubs('particle-flow', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Particle Flow</button>
+  <button class="pub-filter-btn" onclick="filterPubs('navigation', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Navigation</button>
+  <button class="pub-filter-btn" onclick="filterPubs('tracking', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Multi-Object Tracking</button>
+  <button class="pub-filter-btn" onclick="filterPubs('ml', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Machine Learning</button>
 </div>
 
 <!-- CONTAINER FOR PUBLICATIONS -->
 <div id="publications-container">
 
   <!-- Peer-reviewed Journal Articles -->
-  <h3>Peer-reviewed Journal Articles</h3>
+  <h3 style="color: #fff;">Peer-reviewed Journal Articles</h3>
   
   <div class="pub-item" data-tags="particle-flow navigation">
     <span class="pub-num"><strong>*7.</strong></span>
     <div class="pub-content">
       <div class="pub-title">&ldquo;The ultimate hitchhiker's guide to particle flow-based filters: A survey&rdquo;</div>
-      <div class="pub-details"><strong>Sukkeun Kim</strong>, Daniel Frisch, and Uwe D. Hanebeck, prepared for <em>Automatica</em>, 2026.</div>
+      <div class="pub-details"><strong>Sukkeun Kim</strong>, Daniel Frisch and Uwe D. Hanebeck, prepared for <em>Automatica</em> (2026)</div>
       <div style="margin-top: 4px;">
         <a href="#" class="pub-badge">arXiv</a>
         <a href="#" class="pub-badge">doi</a>
@@ -40,7 +40,7 @@ Here is a list of my peer-reviewed journal and conference papers.
     <span class="pub-num"><strong>*6.</strong></span>
     <div class="pub-content">
       <div class="pub-title">&ldquo;DBSCAN-based particle Gaussian mixture filters&rdquo;</div>
-      <div class="pub-details"><strong>Sukkeun Kim</strong>, Mengwei Sun, Ivan Petrunin, and Hyo-Sang Shin, <em>Digital Signal Processing</em>, vol. 168, p. 105546, 2026.</div>
+      <div class="pub-details"><strong>Sukkeun Kim</strong>, Mengwei Sun, Ivan Petrunin and Hyo-Sang Shin, <em>Digital Signal Processing</em> (2026)</div>
       <div style="margin-top: 4px;">
         <a href="https://doi.org/10.1016/j.dsp.2026.105546" target="_blank" class="pub-badge">doi</a>
       </div>
@@ -51,7 +51,7 @@ Here is a list of my peer-reviewed journal and conference papers.
     <span class="pub-num"><strong>*5.</strong></span>
     <div class="pub-content">
       <div class="pub-title">&ldquo;A review of Bayes filters with machine learning techniques and their applications&rdquo;</div>
-      <div class="pub-details"><strong>Sukkeun Kim</strong>, Ivan Petrunin, and Hyo-Sang Shin, <em>Information Fusion</em>, vol. 114, p. 102707, 2025.</div>
+      <div class="pub-details"><strong>Sukkeun Kim</strong>, Ivan Petrunin and Hyo-Sang Shin, <em>Information Fusion</em> (2025)</div>
       <div style="margin-top: 4px;">
         <a href="https://doi.org/10.1016/j.inffus.2024.102707" target="_blank" class="pub-badge">doi</a>
       </div>
@@ -62,7 +62,7 @@ Here is a list of my peer-reviewed journal and conference papers.
     <span class="pub-num"><strong>4.</strong></span>
     <div class="pub-content">
       <div class="pub-title">&ldquo;AFJPDA: A multiclass multi-object tracking with appearance feature-aided joint probabilistic data association&rdquo;</div>
-      <div class="pub-details"><strong>Sukkeun Kim</strong>, Ivan Petrunin, and Hyo-Sang Shin, <em>Journal of Aerospace Information Systems</em>, vol. 21, no. 4, pp. 294&ndash;304, 2024.</div>
+      <div class="pub-details"><strong>Sukkeun Kim</strong>, Ivan Petrunin and Hyo-Sang Shin, <em>Journal of Aerospace Information Systems</em> (2024)</div>
       <div style="margin-top: 4px;">
         <a href="#" target="_blank" class="pub-badge">doi</a>
       </div>
@@ -73,7 +73,7 @@ Here is a list of my peer-reviewed journal and conference papers.
     <span class="pub-num"><strong>3.</strong></span>
     <div class="pub-content">
       <div class="pub-title">&ldquo;Vision-based pose estimation of fixed-wing aircraft using you only look once and perspective-n-points&rdquo;</div>
-      <div class="pub-details"><strong>Sukkeun Kim</strong>, J. Kim, J. Park, and D. Lee, <em>Journal of Aerospace Information Systems</em>, vol. 18, no. 9, pp. 659&ndash;664, 2021.</div>
+      <div class="pub-details"><strong>Sukkeun Kim</strong>, Jeongho Kim, Jihoon Park and Daewoo Lee, <em>Journal of Aerospace Information Systems</em> (2021)</div>
       <div style="margin-top: 4px;">
         <a href="#" target="_blank" class="pub-badge">doi</a>
       </div>
@@ -84,7 +84,7 @@ Here is a list of my peer-reviewed journal and conference papers.
     <span class="pub-num"><strong>2.</strong></span>
     <div class="pub-content">
       <div class="pub-title">&ldquo;Mission planning and performance verification of an unmanned surface vehicle using a genetic algorithm&rdquo;</div>
-      <div class="pub-details">J. Park, <strong>Sukkeun Kim</strong>, G. Noh, H. Kim, D. Lee, and I. Lee, <em>International Journal of Naval Architecture and Ocean Engineering</em>, vol. 13, pp. 575&ndash;584, 2021.</div>
+      <div class="pub-details">Jihoon Park, <strong>Sukkeun Kim</strong>, Geemoon Noh, Hyeongmin Kim, Daewoo Lee and Inwon Lee, <em>International Journal of Naval Architecture and Ocean Engineering</em> (2021)</div>
       <div style="margin-top: 4px;">
         <a href="#" target="_blank" class="pub-badge">doi</a>
       </div>
@@ -95,7 +95,7 @@ Here is a list of my peer-reviewed journal and conference papers.
     <span class="pub-num"><strong>1.</strong></span>
     <div class="pub-content">
       <div class="pub-title">&ldquo;Development of a vision-based recognition and position measurement system for cooperative missions of multiple heterogeneous unmanned vehicles&rdquo;</div>
-      <div class="pub-details"><strong>Sukkeun Kim</strong>, J. Park, D. Han, E. Kim, and D. Lee, <em>International Journal of Aeronautical and Space Sciences</em>, vol. 22, no. 2, pp. 468&ndash;478, 2021.</div>
+      <div class="pub-details"><strong>Sukkeun Kim</strong>, Jihoon Park, Dongin Han, Eunsoo Kim and Daewoo Lee, <em>International Journal of Aeronautical and Space Sciences</em> (2021)</div>
       <div style="margin-top: 4px;">
         <a href="#" target="_blank" class="pub-badge">doi</a>
       </div>
@@ -105,13 +105,13 @@ Here is a list of my peer-reviewed journal and conference papers.
   <div style="margin-top: 35px;"></div>
 
   <!-- Peer-reviewed Conferences -->
-  <h3>Peer-reviewed Conferences</h3>
+  <h3 style="color: #fff;">Peer-reviewed Conferences</h3>
 
   <div class="pub-item" data-tags="particle-flow navigation">
     <span class="pub-num"><strong>*5.</strong></span>
     <div class="pub-content">
       <div class="pub-title">&ldquo;The hitchhiker's guide to particle flow-based filters: A survey&rdquo;</div>
-      <div class="pub-details"><strong>Sukkeun Kim</strong> and Uwe D. Hanebeck, in <em>Proceedings of the 23rd IFAC World Congress (IFAC 2026)</em>, (Busan, Republic of Korea), August 2026.</div>
+      <div class="pub-details"><strong>Sukkeun Kim</strong> and Uwe D. Hanebeck, in <em>Proceedings of the 23rd IFAC World Congress (IFAC 2026)</em> (2026).</div>
       <div style="margin-top: 4px;">
         <a href="#" class="pub-badge">arXiv</a>
         <a href="#" class="pub-badge">doi</a>
@@ -123,7 +123,7 @@ Here is a list of my peer-reviewed journal and conference papers.
     <span class="pub-num"><strong>4.</strong></span>
     <div class="pub-content">
       <div class="pub-title">&ldquo;Deterministic prior sample set prediction approaches for newton-flow particle filters&rdquo;</div>
-      <div class="pub-details"><strong>Sukkeun Kim</strong> and Uwe D. Hanebeck, in <em>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)</em>, (Trondheim, Norway), June 2026.</div>
+      <div class="pub-details"><strong>Sukkeun Kim</strong> and Uwe D. Hanebeck, <em>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)</em> (2026)</div>
       <div style="margin-top: 4px;">
         <a href="#" class="pub-badge">arXiv</a>
       </div>
@@ -134,7 +134,7 @@ Here is a list of my peer-reviewed journal and conference papers.
     <span class="pub-num"><strong>*3.</strong></span>
     <div class="pub-content">
       <div class="pub-title">&ldquo;Autonomous robotic radio source localization via a novel gaussian mixture filtering approach&rdquo;</div>
-      <div class="pub-details"><strong>Sukkeun Kim</strong>, Sangwoo Moon, Ivan Petrunin, Hyo-Sang Shin, and Shehryar Khattak, in <em>2025 28th International Conference on Information Fusion (FUSION)</em>, (Rio de Janeiro, Brazil), pp. 1&ndash;8, July 2025.</div>
+      <div class="pub-details"><strong>Sukkeun Kim</strong>, Sangwoo Moon, Ivan Petrunin, Hyo-Sang Shin, and Shehryar Khattak, <em>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)</em> (2025)</div>
       <div style="margin-top: 4px;">
         <a href="#" class="pub-badge">doi</a>
       </div>
@@ -145,7 +145,7 @@ Here is a list of my peer-reviewed journal and conference papers.
     <span class="pub-num"><strong>2.</strong></span>
     <div class="pub-content">
       <div class="pub-title">&ldquo;A design of VFR approach and departure procedures of UAM at vertiports adjacent to the airport&rdquo;</div>
-      <div class="pub-details"><strong>Sukkeun Kim</strong>, On Park, and Hyo-Sang Shin, in <em>34th Congress of the International Council of the Aeronautical Sciences (ICAS 2024)</em>, (Florence, Italy), pp. 1&ndash;17, September 2024.</div>
+      <div class="pub-details"><strong>Sukkeun Kim</strong>, On Park, and Hyo-Sang Shin, <em>Proceedings of the 34th Congress of the International Council of the Aeronautical Sciences (ICAS 2024)</em> (2024)</div>
       <div style="margin-top: 4px;">
         <a href="#" class="pub-badge">doi</a>
       </div>
@@ -156,7 +156,7 @@ Here is a list of my peer-reviewed journal and conference papers.
     <span class="pub-num"><strong>*1.</strong></span>
     <div class="pub-content">
       <div class="pub-title">&ldquo;A review of Kalman filter with artificial intelligence techniques&rdquo;</div>
-      <div class="pub-details"><strong>Sukkeun Kim</strong>, Ivan Petrunin, and Hyo-Sang Shin, in <em>2022 Integrated Communication, Navigation and Surveillance Conference (ICNS)</em>, (Washington D.C., United States), pp. 1&ndash;12, IEEE, April 2022.</div>
+      <div class="pub-details"><strong>Sukkeun Kim</strong>, Ivan Petrunin, and Hyo-Sang Shin, in <em>Proceedings of the 2022 Integrated Communication, Navigation and Surveillance Conference (ICNS)</em> (2022)</div>
       <div style="margin-top: 4px;">
         <a href="#" class="pub-badge">doi</a>
       </div>
@@ -166,32 +166,33 @@ Here is a list of my peer-reviewed journal and conference papers.
 </div>
 
 <!-- Last Update Section -->
-<p style="font-size: 0.9em; color: #666; margin-top: 40px;">
-  <em>Last update: 03.10.2026</em>
+<p style="font-size: 0.9em; color: #aaa; margin-top: 40px;">
+  <em>Last update: 05.10.2026</em>
 </p>
 
 <!-- CSS Styling & Filtering Logic -->
 <style>
 .pub-item {
   display: flex;
-  margin-bottom: 16px;
+  margin-bottom: 18px;
   font-size: 0.95em;
   line-height: 1.4;
 }
 .pub-num {
   min-width: 35px;
-  color: #333;
+  color: #fff !important;
+  font-weight: bold;
 }
 .pub-content {
   flex: 1;
 }
 .pub-title {
   font-weight: 600;
-  color: #111;
-  margin-bottom: 2px;
+  color: #ffffff !important;
+  margin-bottom: 3px;
 }
 .pub-details {
-  color: #444;
+  color: #d1d5db !important; /* Bright grey */
   font-size: 0.95em;
 }
 .pub-badge {
@@ -199,32 +200,42 @@ Here is a list of my peer-reviewed journal and conference papers.
   font-size: 0.75em;
   font-weight: 600;
   text-transform: uppercase;
-  background: #f1f1f1;
-  color: #555;
+  background: #333;
+  color: #ddd;
   padding: 1px 6px;
   border-radius: 3px;
   margin-right: 4px;
   text-decoration: none;
-  border: 1px solid #dcdcdc;
+  border: 1px solid #555;
 }
 .pub-badge:hover {
-  background: #000;
-  color: #fff;
-  border-color: #000;
+  background: #fff;
+  color: #000;
+  border-color: #fff;
 }
 .pub-filter-btn.active {
-  background: #000 !important;
-  color: #fff !important;
-  border-color: #000 !important;
+  background: #fff !important;
+  color: #000 !important;
+  border-color: #fff !important;
+  font-weight: bold;
 }
 </style>
 
 <script>
 function filterPubs(tag, element) {
-  // Update active state cleanly for all buttons
+  // Update active state cleanly for all buttons (removes active from all, adds only to clicked)
   let buttons = document.querySelectorAll('.pub-filter-btn');
-  buttons.forEach(btn => btn.classList.remove('active'));
+  buttons.forEach(btn => {
+    btn.classList.remove('active');
+    btn.style.background = '#222';
+    btn.style.color = '#ddd';
+    btn.style.borderColor = '#444';
+  });
+  
   element.classList.add('active');
+  element.style.background = '#fff';
+  element.style.color = '#000';
+  element.style.borderColor = '#fff';
 
   // Filter items
   let items = document.querySelectorAll('.pub-item');
