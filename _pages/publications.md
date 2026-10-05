@@ -99,7 +99,7 @@ author_profile: true
     <span class="pub-num"><strong>3.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
-        <span class="pub-title">Vision-based pose estimation of fixed-wing aircraft using you only look once and perspective-n-points</span>
+        <span class="pub-title">Vision-based pose estimation of fixed-wing aircraft using you only look once and perspective-n-points*</span>
         <span class="pub-badges">
           <a href="https://doi.org/10.2514/1.I010975" target="_blank" rel="noopener" class="pub-badge">doi</a>
         </span>
