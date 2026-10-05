@@ -15,6 +15,7 @@ author_profile: true
   <button class="pub-filter-btn" onclick="filterPubs('navigation', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Navigation</button>
   <button class="pub-filter-btn" onclick="filterPubs('robotics', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Robotics</button>
   <button class="pub-filter-btn" onclick="filterPubs('tracking', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Tracking</button>
+  <button class="pub-filter-btn" onclick="filterPubs('others', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Others</button>
 </div>
 
 <div style="margin: 0 0 15px 0; color: #aaa; font-size: 0.95em;"><em>Selected publications are marked with an asterisk*.</em></div>
@@ -38,7 +39,20 @@ author_profile: true
         </span>
         -->
       </div>
-      <div class="pub-details"><strong>Sukkeun Kim</strong>, Daniel Frisch and Uwe D. Hanebeck, prepared for <em>Automatica</em> (2026)</div>
+      <div class="pub-details"><strong>Sukkeun Kim</strong>, Daniel Frisch and Uwe D. Hanebeck, in preparation (2026)</div>
+    </div>
+  </div>
+
+  <div class="pub-item" data-tags="survey others">
+    <span class="pub-num"><strong>7.</strong></span>
+    <div class="pub-content">
+      <div class="pub-header">
+        <span class="pub-title">Aerial threat assessment: A comprehensive review of methodologies, attributes, and a novel validation framework</span>
+        <span class="pub-badges">
+          <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7111691" class="pub-badge">SSRN</a>
+        </span>
+      </div>
+      <div class="pub-details">Sohyun Kim, <strong>Sukkeun Kim</strong>, Jik Hur and Hyo-Sang Shin, in preparation (2026)</div>
     </div>
   </div>
 
@@ -165,7 +179,7 @@ author_profile: true
     </div>
   </div>
 
-  <div class="pub-item" data-tags="survey">
+  <div class="pub-item" data-tags="survey others">
     <span class="pub-num"><strong>2.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
