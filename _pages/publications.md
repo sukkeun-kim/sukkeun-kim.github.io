@@ -21,8 +21,11 @@ author_profile: true
 <div id="publications-container">
 
   <!-- Peer-reviewed Journal Articles -->
+
   ## Peer-reviewed Journal Articles
   
+  <h3 style="color: #fff;">Peer-reviewed Journal Articles</h3>
+
   <div class="pub-item" data-tags="particle-flow navigation">
     <span class="pub-num"><strong>*7.</strong></span>
     <div class="pub-content">
