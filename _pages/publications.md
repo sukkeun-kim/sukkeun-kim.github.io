@@ -15,6 +15,7 @@ author_profile: true
   <button class="pub-filter-btn" onclick="filterPubs('navigation', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Navigation</button>
   <button class="pub-filter-btn" onclick="filterPubs('robotics', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Robotics</button>
   <button class="pub-filter-btn" onclick="filterPubs('tracking', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Tracking</button>
+  <button class="pub-filter-btn" onclick="filterPubs('cv', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Computer Vision</button>
   <button class="pub-filter-btn" onclick="filterPubs('others', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Others</button>
 </div>
 
@@ -73,7 +74,7 @@ author_profile: true
     <span class="pub-num"><strong>5.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
-        <span class="pub-title">A review of Bayes filters with machine learning techniques and their applications*</span>
+        <span class="pub-title">A review of Bayes filters with machine learning techniques and their applications</span>
         <span class="pub-badges">
           <a href="https://doi.org/10.1016/j.inffus.2024.102707" target="_blank" rel="noopener" class="pub-badge">doi</a>
         </span>
@@ -82,11 +83,11 @@ author_profile: true
     </div>
   </div>
 
-  <div class="pub-item" data-tags="tracking robotics">
+  <div class="pub-item" data-tags="tracking robotics cv">
     <span class="pub-num"><strong>4.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
-        <span class="pub-title">AFJPDA: A multiclass multi-object tracking with appearance feature-aided joint probabilistic data association</span>
+        <span class="pub-title">AFJPDA: A multiclass multi-object tracking with appearance feature-aided joint probabilistic data association*</span>
         <span class="pub-badges">
           <a href="https://doi.org/10.2514/1.I011301" target="_blank" rel="noopener" class="pub-badge">doi</a>
         </span>
@@ -95,7 +96,7 @@ author_profile: true
     </div>
   </div>
 
-  <div class="pub-item" data-tags="navigation robotics">
+  <div class="pub-item" data-tags="navigation robotics cv">
     <span class="pub-num"><strong>3.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
@@ -121,7 +122,7 @@ author_profile: true
     </div>
   </div>
 
-  <div class="pub-item" data-tags="navigation robotics">
+  <div class="pub-item" data-tags="navigation robotics cv">
     <span class="pub-num"><strong>1.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
