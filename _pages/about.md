@@ -31,7 +31,7 @@ I am interested in nonlinear estimation problems and aerospace and space applica
 </div>
 
 <!-- Single Combined Copyright -->
-<p style="font-size: 0.75em; color: #777; text-align: center; margin-bottom: 25px;">
+<p style="font-size: 0.75em; color: #777; text-align: center; margin-bottom: 15px;">
   &copy; 2026 Sukkeun Kim
 </p>
 
@@ -49,7 +49,7 @@ Bottom line, I am also a (ultra-)runner, have finished multiple marathon and ult
 .image-gallery {
   display: flex;
   gap: 15px;
-  margin-top: 20px;
+  margin-top: 5px;
   margin-bottom: 5px;
 }
 .image-card {
