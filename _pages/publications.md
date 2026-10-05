@@ -29,7 +29,7 @@ author_profile: true
   <h2 style="color: #fff; border-bottom: 1px solid #3d4451; padding-bottom: 5px;">Peer-reviewed Journal Articles</h2>
 
   <div class="pub-item" data-tags="particle-flow survey">
-    <span class="pub-num"><strong>7.</strong></span>
+    <span class="pub-num"><strong>8.</strong></span>
     <div class="pub-content">
       <div class="pub-header">
         <span class="pub-title">The ultimate hitchhiker's guide to particle flow-based filters: A survey*</span>
