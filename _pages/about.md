@@ -66,13 +66,4 @@ Bottom line, I am also a (ultra-)runner, have finished multiple marathon and ult
     margin-bottom: 5px;
   }
 }
-
-/* Justify and Hyphenate Paragraphs */
-.page__content p {
-  text-align: justify;
-  hyphens: auto;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  word-break: normal;
-}
 </style>
