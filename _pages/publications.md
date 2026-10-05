@@ -3,6 +3,7 @@ layout: single
 title: "Publications <a href='https://scholar.google.com/citations?user=ucaZIY0AAAAJ&hl=en&oi=ao' target='_blank' style='font-size: 0.8em; vertical-align: middle; margin-left: 8px;'><i class='fas fa-fw fa-graduation-cap' aria-hidden='true'></i></a>"
 permalink: /publications/
 author_profile: true
+classes: wide
 ---
 
 <!-- Filter Bar -->
