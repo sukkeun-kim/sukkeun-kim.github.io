@@ -22,9 +22,7 @@ author_profile: true
 
   <!-- Peer-reviewed Journal Articles -->
 
-  ## Peer-reviewed Journal Articles
-  
-  <h3 style="color: #fff;">Peer-reviewed Journal Articles</h3>
+  <h2 style="color: #fff; border-bottom: 1px solid #3d4451; padding-bottom: 5px;">Peer-reviewed Journal Articles</h2>
 
   <div class="pub-item" data-tags="particle-flow navigation">
     <span class="pub-num"><strong>*7.</strong></span>
@@ -121,7 +119,7 @@ author_profile: true
   <div style="margin-top: 35px;"></div>
 
   <!-- Peer-reviewed Conferences -->
-  <h3 style="color: #fff;">Peer-reviewed Conferences</h3>
+  <h2 style="color: #fff; border-bottom: 1px solid #3d4451; padding-bottom: 5px;">Peer-reviewed Conferences</h2>
 
   <div class="pub-item" data-tags="particle-flow navigation">
     <span class="pub-num"><strong>*5.</strong></span>
