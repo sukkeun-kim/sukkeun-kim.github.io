@@ -63,7 +63,7 @@ Bottom line, I am also a (ultra-)runner, have finished multiple marathon and ult
   }
   .image-card {
     width: 100%;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
   }
 }
 </style>
