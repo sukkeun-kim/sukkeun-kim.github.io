@@ -49,7 +49,7 @@ Bottom line, I am also a (ultra-)runner, have finished multiple marathon and ult
 .image-gallery {
   display: flex;
   gap: 15px;
-  margin-top: 5px;
+  margin-top: 20px;
   margin-bottom: 5px;
 }
 .image-card {
@@ -65,5 +65,14 @@ Bottom line, I am also a (ultra-)runner, have finished multiple marathon and ult
     width: 100%;
     margin-bottom: 5px;
   }
+}
+
+/* Justify and Hyphenate Paragraphs */
+.page__content p {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  word-break: normal;
 }
 </style>
