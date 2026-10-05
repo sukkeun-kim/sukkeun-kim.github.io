@@ -10,10 +10,10 @@ Welcome to my personal website! I am an aerospace engineer specialising in nonli
 I am interested in nonlinear estimation problems and aerospace and space applications (+ cosmology!). I have a dream, one day I contribute to a big project that makes a real difference in the world air/space craft application.
 
 <!-- Images Section -->
-<div style="display: flex; gap: 10px; margin-top: 20px; margin-bottom: 5px;">
+<div class="image-gallery">
 
   <!-- Image 1 with Caption only -->
-  <div style="width: 48%;">
+  <div class="image-card">
     <img src="/assets/images/A350.jpg" alt="A350 demonstration at FIA 2022, UK" style="width: 100%; border-radius: 5px;">
     <p style="font-size: 0.85em; color: #666; margin: 5px 0 0 0; text-align: center;">
       A350 demonstration at FIA 2022, UK
@@ -21,7 +21,7 @@ I am interested in nonlinear estimation problems and aerospace and space applica
   </div>
 
   <!-- Image 2 with Caption only -->
-  <div style="width: 48%;">
+  <div class="image-card">
     <img src="/assets/images/Galaxy.jpg" alt="Milkyway taken at Goseong, South Korea" style="width: 100%; border-radius: 5px;">
     <p style="font-size: 0.85em; color: #666; margin: 5px 0 0 0; text-align: center;">
       Milkyway taken at Goseong, South Korea
@@ -43,3 +43,27 @@ Bottom line, I am also a (ultra-)runner, have finished multiple marathon and ult
 <p style="font-size: 0.9em; color: #666; margin-top: 30px;">
   <em>Last update: 05.10.2026</em>
 </p>
+
+<!-- Responsive CSS Styling -->
+<style>
+.image-gallery {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+.image-card {
+  width: 48%;
+}
+
+/* Mobile Responsive Breakpoint (stacks images vertically on smaller screens) */
+@media (max-width: 768px) {
+  .image-gallery {
+    flex-direction: column;
+  }
+  .image-card {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+}
+</style>
