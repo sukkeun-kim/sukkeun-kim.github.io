@@ -3,7 +3,6 @@ layout: single
 title: "Publications <a href='https://scholar.google.com/citations?user=ucaZIY0AAAAJ&hl=en&oi=ao' target='_blank' style='font-size: 0.8em; vertical-align: middle; margin-left: 8px;'><i class='fas fa-fw fa-graduation-cap' aria-hidden='true'></i></a>"
 permalink: /publications/
 author_profile: true
-classes: wide
 ---
 
 <!-- Filter Bar -->
@@ -22,7 +21,7 @@ classes: wide
 <div id="publications-container">
 
   <!-- Peer-reviewed Journal Articles -->
-  <h3 style="color: #fff;">Peer-reviewed Journal Articles</h3>
+  ## Peer-reviewed Journal Articles
   
   <div class="pub-item" data-tags="particle-flow navigation">
     <span class="pub-num"><strong>*7.</strong></span>
