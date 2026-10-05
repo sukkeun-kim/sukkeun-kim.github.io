@@ -9,12 +9,12 @@ author_profile: true
 <div class="pub-filter-bar" style="margin-bottom: 25px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <span style="font-size: 0.9em; font-weight: bold; margin-right: 5px; color: #ddd;">Filter by tag:</span>
   <button class="pub-filter-btn active" onclick="filterPubs('all', this)" style="cursor: pointer; background: #000; color: #fff; border: 1px solid #555; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">All</button>
+  <button class="pub-filter-btn" onclick="filterPubs('survey', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Survey</button>
   <button class="pub-filter-btn" onclick="filterPubs('particle-flow', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Particle Flow Filter</button>
   <button class="pub-filter-btn" onclick="filterPubs('gaussian-mixture', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Gaussian Mixture Filter</button>
   <button class="pub-filter-btn" onclick="filterPubs('navigation', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Navigation</button>
   <button class="pub-filter-btn" onclick="filterPubs('robotics', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Robotics</button>
-  <button class="pub-filter-btn" onclick="filterPubs('tracking', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Multi-Object Tracking/Tracking</button>
-  <button class="pub-filter-btn" onclick="filterPubs('survey', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Survey</button>
+  <button class="pub-filter-btn" onclick="filterPubs('tracking', this)" style="cursor: pointer; background: #222; color: #ddd; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">Tracking</button>
 </div>
 
 <div style="margin: 0 0 15px 0; color: #aaa; font-size: 0.95em;"><em>Selected publications are marked with an asterisk*.</em></div>
@@ -48,7 +48,7 @@ author_profile: true
       <div class="pub-header">
         <span class="pub-title">DBSCAN-based particle Gaussian mixture filters*</span>
         <span class="pub-badges">
-          <a href="https://doi.org/10.1016/j.dsp.2026.105546" target="_blank" rel="noopener" rel="noopener" class="pub-badge">doi</a>
+          <a href="https://doi.org/10.1016/j.dsp.2025.105546" target="_blank" rel="noopener" rel="noopener" class="pub-badge">doi</a>
         </span>
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong>, Mengwei Sun, Ivan Petrunin and Hyo-Sang Shin, <em>Digital Signal Processing</em> (2026)</div>
@@ -157,7 +157,7 @@ author_profile: true
       <div class="pub-header">
         <span class="pub-title">Autonomous robotic radio source localization via a novel Gaussian mixture filtering approach*</span>
         <span class="pub-badges">
-          <a href="https://arxiv.org/abs/2503.10349" class="pub-badge">arXiv</a>
+          <a href="https://arxiv.org/abs/2503.10349" target="_blank" rel="noopener" class="pub-badge">arXiv</a>
           <a href="https://doi.org/10.23919/FUSION65864.2025.11124026" target="_blank" rel="noopener" class="pub-badge">doi</a>
         </span>
       </div>
