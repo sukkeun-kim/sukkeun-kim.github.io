@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="margin: 0 0 4px 0;">Here is a list of my peer-reviewed journal and conference papers.</div>
+Here is a list of my peer-reviewed journal and conference papers.
 <div style="margin: 0 0 20px 0; color: #555; font-size: 0.95em;"><em>*Selected publications are marked with an asterisk.</em></div>
 
 <!-- Peer-reviewed Journal Articles -->
