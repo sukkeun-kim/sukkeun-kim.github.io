@@ -5,10 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-<div style="margin: 0 0 4px 0;">Will be updated soon!</div>
-<div style="margin: 0 0 20px 0;"><em>I will add what I have done in my research and what I am interested in.</em></div>
+I am working on this page at the moment.
 
+## Research Interests
 
+### State Estimation
+
+My primary research interest is the state estimation for navigation of aircraft/robotic systems.
+ 
 <!-- Last Update Section -->
 <p style="font-size: 0.9em; color: #666; margin-top: 30px;">
   <em>Last update: 03.10.2026</em>
