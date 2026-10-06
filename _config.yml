@@ -147,12 +147,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/sukkeun-kim-557977182/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sukkeun-kim"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sukkeun-kim-557977182/"
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/63082027"
   since: "2026"
 
 
