@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-Welcome to my personal website! I am an aerospace engineer specialising in nonlinear Bayesian estimation and navigation systems. I bridge the gap between advanced mathematical theory and real-world implementation by developing and testing multiple estimation algorithms including particle flow and Gaussian mixture filters.
+Welcome to my personal website! I am an aerospace engineer specialising in nonlinear Bayesian estimation and navigation systems. I bridge the gap between advanced mathematical theory and real-world implementation by developing and testing multiple estimation algorithms including particle flow-based and Gaussian mixture filters.
 
 I am interested in nonlinear estimation problems and aerospace and space applications (+ astronomy!). I have a dream, one day I contribute to a big project that makes a real difference in the world air/space craft application.
 
@@ -41,7 +41,7 @@ Bottom line, I am also a (ultra-)runner, have finished multiple marathon and ult
 
 <!-- Last Update Section -->
 <p style="font-size: 0.9em; color: #666; margin-top: 30px;">
-  <em>Last update: 05.10.2026</em>
+  <em>Last update: 06.10.2026</em>
 </p>
 
 <!-- Responsive CSS Styling -->
