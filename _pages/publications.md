@@ -210,7 +210,7 @@ author_profile: true
 
 <!-- Last Update Section -->
 <p style="font-size: 0.9em; color: #aaa; margin-top: 40px;">
-  <em>Last update: 05.10.2026</em>
+  <em>Last update: 06.10.2026</em>
 </p>
 
 <!-- CSS Styling & Filtering Logic -->
