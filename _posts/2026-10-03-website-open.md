@@ -2,6 +2,7 @@
 layout: single
 title: "My New Website Is Now Open"
 date: 2026-10-03 21:33:00 +0200
+last_modified_at: 2026-10-06 09:00:00 +0200
 categories: [Research, Life, Updates]
 tags: [Life, Updates]
 header:
@@ -44,6 +45,21 @@ One different path I took from the original one above is not using the "Fork Met
 ### Publications Page
 
 This is kind of a problematic page at the moment. I was trying to use *.bibtex* directly to import my publications and list them using [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar), but it didn't go so well. I guess it is because of the **Ruby** version, but I haven't investigated it fully yet. I might continue working on it later and will make an update here or in a new post.
+
+#### Update on 06.10.2026: Interactive Publication List
+
+I have updated my [Publications](/publications/) page by embedding custom **HTML and CSS** directly into the Markdown structure. I have not worked with *.bibtex*, and the items must be entered manually at the moment. You can have a look at my [Markdown file](https://github.com/sukkeun-kim/sukkeun-kim.github.io/blob/main/_pages/publications.md). The new interactive publication list features:
+
+- **Tag-based filtering** so readers can easily sort papers by research topics.
+- **Direct connection badges** for quick access to PDFs, DOIs and arXiv links.
+- A clean, modern layout with responsive styling for both desktop and mobile devices.
+
+<div style="margin: 25px 0;">
+  <img src="/assets/images/Publication_page.png" alt="The updated publication page features with tag-based filtering (example with GMF) and connection badges" style="width: 80%; border-radius: 5px; display: block; margin: 0 auto;">
+  <p style="font-size: 0.85em; color: #666; margin: 8px 0 25px 0; text-align: center;">
+    The updated <a href="/publications/" style="color: #666; text-decoration: underline;"> publication page</a> features with tag-based filtering (example with GMF) and connection badges
+  </p>
+</div>
 
 ## What Will I Do with This?
 
