@@ -27,7 +27,7 @@ My primary research interests include nonlinear [state estimation](https://en.wi
   </div>
 
   <div class="card-row">
-    <span class="card-label">Software:</span> 
+    <span class="card-label">Repository:</span> 
     <span><a href="https://github.com/sukkeun-kim/PFF_Comparison" target="_blank" rel="noopener">Comparison framework (GitHub)</a></span>
   </div>
 
@@ -61,7 +61,7 @@ My primary research interests include nonlinear [state estimation](https://en.wi
   </div>
 
   <div class="card-row">
-    <span class="card-label">Software:</span> 
+    <span class="card-label">Repository:</span> 
     <span>
       <a href="https://github.com/sukkeun-kim/CovA-GMF" target="_blank" rel="noopener">CovA-GMF (GitHub)</a>, 
       <a href="https://github.com/sukkeun-kim/PGM-DS" target="_blank" rel="noopener">PGM-DS (GitHub)</a>
@@ -96,7 +96,7 @@ My primary research interests include nonlinear [state estimation](https://en.wi
   </div>
 
   <div class="card-row">
-    <span class="card-label">Software:</span> 
+    <span class="card-label">Repository:</span> 
     <span>
       <a href="https://github.com/sukkeun-kim/AFJPDA" target="_blank" rel="noopener">AFJPDA (GitHub)</a>, 
       <a href="https://github.com/sukkeun-kim/ICT_2020" target="_blank" rel="noopener">ICT (GitHub)</a>
@@ -131,14 +131,14 @@ My primary research interests include nonlinear [state estimation](https://en.wi
   </div>
 
   <div class="card-row">
-    <span class="card-label">Software:</span> 
+    <span class="card-label">Repository:</span> 
     <span>
       <a href="https://github.com/sukkeun-kim/MBT_KUCAS_2020" target="_blank" rel="noopener">MBT (GitHub)</a>
     </span>
   </div>
 
   <div class="card-row" style="margin-bottom: 0;">
-    <span class="card-label">Papers:</span> 
+    <span class="card-label">Paper:</span> 
     <span>
       <em>Vision-based pose estimation of fixed-wing aircraft using you only look once and perspective-n-points</em> (2021) <a href="https://doi.org/10.2514/1.I010975" target="_blank" rel="noopener" class="pub-badge">doi</a><br>
     </span>
