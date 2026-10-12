@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My primary research interests include nonlinear [state estimation](https://en.wikipedia.org/wiki/State_observer), [robotic navigation/localisation](https://en.wikipedia.org/wiki/Robot_navigation) and their applications. Following are key topics I have worked on so far:
+My primary research interests include nonlinear [state estimation](https://en.wikipedia.org/wiki/State_observer), [robotic navigation/localisation](https://en.wikipedia.org/wiki/Robot_navigation), vision-based navigation and their applications. Following are key topics I have worked on so far:
 
 - Particle flow-based filters
 - Gaussian mixture filters
@@ -31,13 +31,9 @@ Test
   <p>Github</p>
 
   <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 18px; font-weight: 700; color: #555555;">Papers</h3>
-  <p>2026 &nbsp;&nbsp;<em>Test</em> 
-  <span class="pub-badges">
-    <a href="https://doi.org/10.1109/ICNS54818.2022.9771520" target="_blank" rel="noopener" class="pub-badge">doi</a>
-  </span>
+  <p>2026 &nbsp;&nbsp;<em>Test</em> <span class="pub-badges"><a href="https://doi.org/10.1109/ICNS54818.2022.9771520" target="_blank" rel="noopener" class="pub-badge">doi</a> </span>
 
 </div>
-
 </details>
 
 
