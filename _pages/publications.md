@@ -50,7 +50,7 @@ author_profile: true
       <div class="pub-header">
         <span class="pub-title">Aerial threat assessment: A comprehensive review of methodologies, attributes, and a novel validation framework</span>
         <span class="pub-badges">
-          <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7111691" class="pub-badge">SSRN</a>
+          <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7111691" target="_blank" rel="noopener" class="pub-badge">SSRN</a>
         </span>
       </div>
       <div class="pub-details">Sohyun Kim, <strong>Sukkeun Kim</strong>, Jik Hur and Hyo-Sang Shin, in preparation (2026)</div>
@@ -63,7 +63,7 @@ author_profile: true
       <div class="pub-header">
         <span class="pub-title">DBSCAN-based particle Gaussian mixture filters*</span>
         <span class="pub-badges">
-          <a href="https://doi.org/10.1016/j.dsp.2025.105546" target="_blank" rel="noopener" rel="noopener" class="pub-badge">doi</a>
+          <a href="https://doi.org/10.1016/j.dsp.2025.105546" target="_blank" rel="noopener" class="pub-badge">doi</a>
         </span>
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong>, Mengwei Sun, Ivan Petrunin and Hyo-Sang Shin, <em>Digital Signal Processing</em> (2026)</div>
