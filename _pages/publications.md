@@ -213,6 +213,7 @@ author_profile: true
   <em>Last update: 06.10.2026</em>
 </p>
 
+
 <!-- CSS Styling & Filtering Logic -->
 <style>
 .pub-item {
@@ -252,19 +253,24 @@ author_profile: true
   font-size: 0.7em;
   font-weight: 600;
   text-transform: uppercase;
-  background: #222;        /* Matches filter button background */
+  background: #333;
   color: #ddd;
   padding: 1px 5px;
   border-radius: 3px;
   margin-left: 3px;
   text-decoration: none;
-  border: 1px solid #444;    /* Matches filter button border */
+  border: 1px solid #555;
   vertical-align: middle;
 }
 .pub-badge:hover {
   background: #fff;
   color: #000;
   border-color: #fff;
+}
+.pub-filter-btn {
+  background: #333;
+  color: #ddd;
+  border: 1px solid #555;
 }
 .pub-filter-btn.active {
   background: #fff !important;
@@ -273,3 +279,36 @@ author_profile: true
   font-weight: bold;
 }
 </style>
+
+<script>
+function filterPubs(tag, element) {
+  // Update active state cleanly for all buttons, matching the badge color scheme when inactive
+  let buttons = document.querySelectorAll('.pub-filter-btn');
+  buttons.forEach(btn => {
+    btn.classList.remove('active');
+    btn.style.background = '#333';
+    btn.style.color = '#ddd';
+    btn.style.borderColor = '#555';
+  });
+  
+  element.classList.add('active');
+  element.style.background = '#fff';
+  element.style.color = '#000';
+  element.style.borderColor = '#fff';
+
+  // Filter items
+  let items = document.querySelectorAll('.pub-item');
+  items.forEach(item => {
+    if (tag === 'all') {
+      item.style.display = 'flex';
+    } else {
+      let itemTags = item.getAttribute('data-tags');
+      if (itemTags && itemTags.includes(tag)) {
+        item.style.display = 'flex';
+      } else {
+        item.style.display = 'none';
+      }
+    }
+  });
+}
+</script>
