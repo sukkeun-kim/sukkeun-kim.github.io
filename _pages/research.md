@@ -51,7 +51,7 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 <div class="card-box">
   <div class="card-row">
     <span class="card-label">Collaborators:</span> 
-    <span><a href="https://ais.kaist.ac.kr/people/professor" target="_blank" rel="noopener">Professor Hyo-Sang Shin</a> (KAIST / Cranfield University), <a href="https://www.cranfield.ac.uk/people/professor-ivan-petrunin-428715" target="_blank" rel="noopener">Professor Ivan Petrunin</a> (Cranfield University), <a href="https://sangwoomoon.wixsite.com/smoon" target="_blank" rel="noopener">Dr. Sangwoo Moon</a> (Microsoft) and <a href="https://www.linkedin.com/in/shehryar-khattak/?isSelfProfile=false
+    <span><a href="https://ais.kaist.ac.kr/people/professor" target="_blank" rel="noopener">Professor Hyo-Sang Shin</a> (KAIST / Cranfield University), <a href="https://www.cranfield.ac.uk/people/professor-ivan-petrunin-428715" target="_blank" rel="noopener">Professor Ivan Petrunin</a>, <a href="https://www.cranfield.ac.uk/people/dr-mengwei-sun-37639335" target="_blank" rel="noopener">Dr Mengwei Sun</a>  (Cranfield University), <a href="https://sangwoomoon.wixsite.com/smoon" target="_blank" rel="noopener">Dr. Sangwoo Moon</a> (Microsoft) and <a href="https://www.linkedin.com/in/shehryar-khattak/?isSelfProfile=false
     " target="_blank" rel="noopener">Dr. Shehryar Khattak</a> (FieldAI)</span>
   </div>
 
@@ -87,12 +87,12 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 <div class="card-box">
   <div class="card-row">
     <span class="card-label">Collaborators:</span> 
-    <span><a href="https://ais.kaist.ac.kr/people/professor" target="_blank" rel="noopener">Professor Hyo-Sang Shin</a> (KAIST / Cranfield University), <a href="https://www.cranfield.ac.uk/people/professor-ivan-petrunin-428715" target="_blank" rel="noopener">Professor Ivan Petrunin</a> (Cranfield University), <a href="https://fdl.pusan.ac.kr/fdl/37938/subview.do?enc=Zm5jdDF8QEB8JTJGcG51UHJvZmwlMkZmZGwlMkYxNjMyJTJGMTUwOTclMkZhcnRjbFZpZXcuZG8lM0ZmaW5kVHlwZSUzRCUyNmZpbmRXb3JkJTNEJTI2cGFnZSUzRDElMjY%3D" target="_blank" rel="noopener">Professor Daewoo Lee</a> (PNU) and <a href="#" target="_blank" rel="noopener">Dr. Jeongho Kim</a> (NEXTFOAM)</span>
+    <span><a href="https://ais.kaist.ac.kr/people/professor" target="_blank" rel="noopener">Professor Hyo-Sang Shin</a> (KAIST / Cranfield University), <a href="https://www.cranfield.ac.uk/people/professor-ivan-petrunin-428715" target="_blank" rel="noopener">Professor Ivan Petrunin</a> (Cranfield University) and <a href="https://fdl.pusan.ac.kr/fdl/37938/subview.do?enc=Zm5jdDF8QEB8JTJGcG51UHJvZmwlMkZmZGwlMkYxNjMyJTJGMTUwOTclMkZhcnRjbFZpZXcuZG8lM0ZmaW5kVHlwZSUzRCUyNmZpbmRXb3JkJTNEJTI2cGFnZSUzRDElMjY%3D" target="_blank" rel="noopener">Professor Daewoo Lee</a> (PNU)</span>
   </div>
 
   <div class="card-row">
     <span class="card-label">Affiliations:</span> 
-    <span>Cranfield University or Pusan National University (PNU)</span>
+    <span>Cranfield University / Pusan National University (PNU)</span>
   </div>
 
   <div class="card-row">
@@ -122,7 +122,7 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 <div class="card-box">
   <div class="card-row">
     <span class="card-label">Collaborators:</span> 
-    <span><a href="https://fdl.pusan.ac.kr/fdl/37938/subview.do?enc=Zm5jdDF8QEB8JTJGcG51UHJvZmwlMkZmZGwlMkYxNjMyJTJGMTUwOTclMkZhcnRjbFZpZXcuZG8lM0ZmaW5kVHlwZSUzRCUyNmZpbmRXb3JkJTNEJTI2cGFnZSUzRDElMjY%3D" target="_blank" rel="noopener">Professor Daewoo Lee</a> (PNU) and <a href="#" target="_blank" rel="noopener">Dr. Jeongho Kim</a> (NEXTFOAM)</span>
+    <span><a href="https://fdl.pusan.ac.kr/fdl/37938/subview.do?enc=Zm5jdDF8QEB8JTJGcG51UHJvZmwlMkZmZGwlMkYxNjMyJTJGMTUwOTclMkZhcnRjbFZpZXcuZG8lM0ZmaW5kVHlwZSUzRCUyNmZpbmRXb3JkJTNEJTI2cGFnZSUzRDElMjY%3D" target="_blank" rel="noopener">Professor Daewoo Lee</a> (PNU) and <a href="https://www.linkedin.com/in/정호-김-881163147/?isSelfProfile=false" target="_blank" rel="noopener">Dr. Jung-ho Kim</a> (NEXTFOAM)</span>
   </div>
 
   <div class="card-row">
