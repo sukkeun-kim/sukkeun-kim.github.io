@@ -58,13 +58,13 @@ For more details on each key topic, please expand below:
 <div class="card-box">
   <div class="card-row">
     <span class="card-label">Collaborators:</span> 
-    <span><a href="https://ais.kaist.ac.kr/people/professor" target="_blank" rel="noopener">Professor Hyo-Sang Shin</a> (KAIST and Cranfield University), <a href="https://www.cranfield.ac.uk/people/professor-ivan-petrunin-428715" target="_blank" rel="noopener">Professor Ivan Petrunin</a> (Cranfield University), <a href="https://sangwoomoon.wixsite.com/smoon" target="_blank" rel="noopener">Dr. Sangwoo Moon</a> (Microsoft) and <a href="https://www.linkedin.com/in/shehryar-khattak/?isSelfProfile=false
+    <span><a href="https://ais.kaist.ac.kr/people/professor" target="_blank" rel="noopener">Professor Hyo-Sang Shin</a> (KAIST / Cranfield University), <a href="https://www.cranfield.ac.uk/people/professor-ivan-petrunin-428715" target="_blank" rel="noopener">Professor Ivan Petrunin</a> (Cranfield University), <a href="https://sangwoomoon.wixsite.com/smoon" target="_blank" rel="noopener">Dr. Sangwoo Moon</a> (Microsoft) and <a href="https://www.linkedin.com/in/shehryar-khattak/?isSelfProfile=false
     " target="_blank" rel="noopener">Dr. Shehryar Khattak</a> (FieldAI)</span>
   </div>
 
   <div class="card-row">
     <span class="card-label">Affiliations:</span> 
-    <span>Cranfield University and NASA Jet Propulsion Laboratory (JPL)</span>
+    <span>Cranfield University / NASA Jet Propulsion Laboratory (JPL)</span>
   </div>
 
   <div class="card-row">
@@ -78,8 +78,8 @@ For more details on each key topic, please expand below:
   <div class="card-row" style="margin-bottom: 0;">
     <span class="card-label">Papers:</span> 
     <span>
-      <em>Autonomous robotic radio source localization via a novel Gaussian mixture filtering approach</em> (2025) <a href="https://arxiv.org/abs/2503.10349" target="_blank" rel="noopener" class="pub-badge">arxiv</a> <a href="https://doi.org/10.23919/FUSION65864.2025.11124026" target="_blank" rel="noopener" class="pub-badge">doi</a><br>
-      <em>DBSCAN-based particle Gaussian mixture filters</em> (2025 at Cranfield University) <a href="https://doi.org/10.1016/j.dsp.2025.105546" target="_blank" rel="noopener" class="pub-badge">doi</a>
+      <em>Autonomous robotic radio source localization via a novel Gaussian mixture filtering approach</em> (2025, with NASA JPL & Cranfield University) <a href="https://arxiv.org/abs/2503.10349" target="_blank" rel="noopener" class="pub-badge">arxiv</a> <a href="https://doi.org/10.23919/FUSION65864.2025.11124026" target="_blank" rel="noopener" class="pub-badge">doi</a><br>
+      <em>DBSCAN-based particle Gaussian mixture filters</em> (2025, conducted at Cranfield University) <a href="https://doi.org/10.1016/j.dsp.2025.105546" target="_blank" rel="noopener" class="pub-badge">doi</a>
     </span>
   </div>
 </div>
@@ -94,7 +94,7 @@ For more details on each key topic, please expand below:
 <div class="card-box">
   <div class="card-row">
     <span class="card-label">Collaborators:</span> 
-    <span><a href="https://ais.kaist.ac.kr/people/professor" target="_blank" rel="noopener">Professor Hyo-Sang Shin</a> (KAIST and Cranfield University) and <a href="https://www.cranfield.ac.uk/people/professor-ivan-petrunin-428715" target="_blank" rel="noopener">Professor Ivan Petrunin</a> (Cranfield University) or <a href="https://fdl.pusan.ac.kr/fdl/37938/subview.do?enc=Zm5jdDF8QEB8JTJGcG51UHJvZmwlMkZmZGwlMkYxNjMyJTJGMTUwOTclMkZhcnRjbFZpZXcuZG8lM0ZmaW5kVHlwZSUzRCUyNmZpbmRXb3JkJTNEJTI2cGFnZSUzRDElMjY%3D" target="_blank" rel="noopener">Professor Daewoo Lee</a> (PNU) and <a href="#" target="_blank" rel="noopener">Dr. Jeongho Kim</a> (NEXTFOAM)</span>
+    <span><a href="https://ais.kaist.ac.kr/people/professor" target="_blank" rel="noopener">Professor Hyo-Sang Shin</a> (KAIST / Cranfield University), <a href="https://www.cranfield.ac.uk/people/professor-ivan-petrunin-428715" target="_blank" rel="noopener">Professor Ivan Petrunin</a> (Cranfield University), <a href="https://fdl.pusan.ac.kr/fdl/37938/subview.do?enc=Zm5jdDF8QEB8JTJGcG51UHJvZmwlMkZmZGwlMkYxNjMyJTJGMTUwOTclMkZhcnRjbFZpZXcuZG8lM0ZmaW5kVHlwZSUzRCUyNmZpbmRXb3JkJTNEJTI2cGFnZSUzRDElMjY%3D" target="_blank" rel="noopener">Professor Daewoo Lee</a> (PNU) and <a href="#" target="_blank" rel="noopener">Dr. Jeongho Kim</a> (NEXTFOAM)</span>
   </div>
 
   <div class="card-row">
@@ -113,8 +113,8 @@ For more details on each key topic, please expand below:
   <div class="card-row" style="margin-bottom: 0;">
     <span class="card-label">Papers:</span> 
     <span>
-      <em>AFJPDA: A multiclass multi-object tracking with appearance feature-aided joint probabilistic data association</em> (2024 at Cranfield University) <a href="https://doi.org/10.2514/1.I011301" target="_blank" rel="noopener" class="pub-badge">doi</a><br>
-      <em>Development of a vision-based recognition and position measurement system for cooperative missions of multiple heterogeneous unmanned vehicles</em> (2021 at PNU) <a href="https://doi.org/10.1007/s42405-021-00355-1" target="_blank" rel="noopener" class="pub-badge">doi</a>
+      <em>AFJPDA: A multiclass multi-object tracking with appearance feature-aided joint probabilistic data association</em> (2024, conducted at Cranfield University) <a href="https://doi.org/10.2514/1.I011301" target="_blank" rel="noopener" class="pub-badge">doi</a><br>
+      <em>Development of a vision-based recognition and position measurement system for cooperative missions of multiple heterogeneous unmanned vehicles</em> (2021, conducted at PNU) <a href="https://doi.org/10.1007/s42405-021-00355-1" target="_blank" rel="noopener" class="pub-badge">doi</a>
     </span>
   </div>
 </div>
