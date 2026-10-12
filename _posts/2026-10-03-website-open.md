@@ -57,7 +57,7 @@ I have updated my [Publications](/publications/){:target="_blank" rel="noopener"
 <div style="margin: 25px 0;">
   <img src="/assets/images/Publication_page.png" alt="The updated publication page features with tag-based filtering (example with GMF)" style="width: 80%; border-radius: 5px; display: block; margin: 0 auto;">
   <p style="font-size: 0.85em; color: #666; margin: 8px 0 25px 0; text-align: center;">
-    The updated <a href="/publications/" style="color: #666; text-decoration: underline;"> publication page</a> features with tag-based filtering (example with GMF)
+    The updated <a href="/publications/" target="_blank" rel="noopener" style="color: #666; text-decoration: underline;"> publication page</a> features with tag-based filtering (example with GMF)
   </p>
 </div>
 
