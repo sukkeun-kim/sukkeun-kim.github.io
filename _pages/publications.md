@@ -213,7 +213,6 @@ author_profile: true
   <em>Last update: 06.10.2026</em>
 </p>
 
-
 <!-- CSS Styling & Filtering Logic -->
 <style>
 .pub-item {
@@ -267,11 +266,6 @@ author_profile: true
   color: #000;
   border-color: #fff;
 }
-.pub-filter-btn {
-  background: #333;
-  color: #ddd;
-  border: 1px solid #555;
-}
 .pub-filter-btn.active {
   background: #fff !important;
   color: #000 !important;
@@ -282,13 +276,13 @@ author_profile: true
 
 <script>
 function filterPubs(tag, element) {
-  // Update active state cleanly for all buttons, matching the badge color scheme when inactive
+  // Update active state cleanly for all buttons
   let buttons = document.querySelectorAll('.pub-filter-btn');
   buttons.forEach(btn => {
     btn.classList.remove('active');
-    btn.style.background = '#333';
+    btn.style.background = '#222';
     btn.style.color = '#ddd';
-    btn.style.borderColor = '#555';
+    btn.style.borderColor = '#444';
   });
   
   element.classList.add('active');
