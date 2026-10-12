@@ -36,19 +36,19 @@ Ah, last but not least, there is one more reason. I like writing and talking wit
 
 ## How Did I Make This Website?
 
-If you are a stranger who doesn't know me personally but accidentally landed here, you are just wondering how I created this website. Fair enough. I landed on Lexi's GitHub website when I started to make this website. I guess it would be easier to link [Lexi's post](https://lexi-jones.github.io/website-creation/) here instead of repeating the same post.
+If you are a stranger who doesn't know me personally but accidentally landed here, you are just wondering how I created this website. Fair enough. I landed on Lexi's GitHub website when I started to make this website. I guess it would be easier to link [Lexi's post](https://lexi-jones.github.io/website-creation/){:target="_blank" rel="noopener"} here instead of repeating the same post.
 
 ### Instead of Fork Method...
 
-One different path I took from the original one above is not using the "Fork Method" on GitHub. If you read the post above, a fork from [Jekyll Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) is introduced (and also the caveat with that method). I simply created a GitHub repo for my website based on the [official GitHub tutorial](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site), cloned Jekyll Minimal Mistakes and pushed to my own repo. It's a lot simpler because you don't need to go through the unlinking request.
+One different path I took from the original one above is not using the "Fork Method" on GitHub. If you read the post above, a fork from [Jekyll Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes){:target="_blank" rel="noopener"} is introduced (and also the caveat with that method). I simply created a GitHub repo for my website based on the [official GitHub tutorial](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site){:target="_blank" rel="noopener"}, cloned Jekyll Minimal Mistakes and pushed to my own repo. It's a lot simpler because you don't need to go through the unlinking request.
 
 ### Publications Page
 
-This is kind of a problematic page at the moment. I was trying to use *.bibtex* directly to import my publications and list them using [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar), but it didn't go so well. I guess it is because of the **Ruby** version, but I haven't investigated it fully yet. I might continue working on it later and will make an update here or in a new post.
+This is kind of a problematic page at the moment. I was trying to use *.bibtex* directly to import my publications and list them using [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar){:target="_blank" rel="noopener"}, but it didn't go so well. I guess it is because of the **Ruby** version, but I haven't investigated it fully yet. I might continue working on it later and will make an update here or in a new post.
 
 #### Update on 06.10.2026: Interactive Publication List
 
-I have updated my [Publications](/publications/) page by embedding custom **HTML and CSS** directly into the Markdown structure. I have not worked with *.bibtex*, and the items must be entered manually at the moment. You can have a look at my [Markdown file](https://github.com/sukkeun-kim/sukkeun-kim.github.io/blob/main/_pages/publications.md). The new interactive publication list features:
+I have updated my [Publications](/publications/){:target="_blank" rel="noopener"} page by embedding custom **HTML and CSS** directly into the Markdown structure. I have not worked with *.bibtex*, and the items must be entered manually at the moment. You can have a look at my [Markdown file](https://github.com/sukkeun-kim/sukkeun-kim.github.io/blob/main/_pages/publications.md){:target="_blank" rel="noopener"}. The new interactive publication list features:
 
 - **Tag-based filtering** so readers can easily sort papers by research topics.
 - **Direct connection badges** for quick access to PDFs, DOIs and arXiv links.
@@ -69,14 +69,14 @@ Well, I am not so clear on the direction I will take with this platform at the m
 
 On my website, there are four pages at the moment as follows:
 
-- [About](/)
-- [Research](/research/)
-- [Publications](/publications/)
-- [Posts](/posts/)
+- [About](/){:target="_blank" rel="noopener"}
+- [Research](/research/){:target="_blank" rel="noopener"}
+- [Publications](/publications/){:target="_blank" rel="noopener"}
+- [Posts](/posts/){:target="_blank" rel="noopener"}
 
 -- which is very straightforward. 
 
-I will add some explanations of my previous research topics (mostly based on the publications) on the [Research](/research/) page, and the [Publications](/publications/) page is just a user-friendly list of my publications. New updates will be mostly made in [Posts](/posts/). At the moment, I am planning to mix my research/projects/life stories on the same page, and one can navigate between them using either ***Tags*** or ***Categories*** at the bottom of each page. Not decided yet, but I might add a ***Gallery*** page to upload my photographic works later.
+I will add some explanations of my previous research topics (mostly based on the publications) on the [Research](/research/){:target="_blank" rel="noopener"} page, and the [Publications](/publications/){:target="_blank" rel="noopener"} page is just a user-friendly list of my publications. New updates will be mostly made in [Posts](/posts/){:target="_blank" rel="noopener"}. At the moment, I am planning to mix my research/projects/life stories on the same page, and one can navigate between them using either ***Tags*** or ***Categories*** at the bottom of each page. Not decided yet, but I might add a ***Gallery*** page to upload my photographic works later.
 
 ## Some Final Words!
 

@@ -54,7 +54,8 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 <div class="card-box">
   <div class="card-row">
     <span class="card-label">Collaborators:</span> 
-    <span><a href="https://ais.kaist.ac.kr/people/professor" target="_blank" rel="noopener">Professor Hyo-Sang Shin</a> (KAIST, Cranfield University), <a href="https://www.cranfield.ac.uk/people/professor-ivan-petrunin-428715" target="_blank" rel="noopener">Professor Ivan Petrunin</a> (Cranfield University), <a href="https://sangwoomoon.wixsite.com/smoon" target="_blank" rel="noopener">Dr. Sangwoo Moon</a> and Dr. Shehryar Khattak (NASA JPL)</span>
+    <span><a href="https://ais.kaist.ac.kr/people/professor" target="_blank" rel="noopener">Professor Hyo-Sang Shin</a> (KAIST, Cranfield University), <a href="https://www.cranfield.ac.uk/people/professor-ivan-petrunin-428715" target="_blank" rel="noopener">Professor Ivan Petrunin</a> (Cranfield University), <a href="https://sangwoomoon.wixsite.com/smoon" target="_blank" rel="noopener">Dr. Sangwoo Moon</a> and <a href="https://www.linkedin.com/in/shehryar-khattak/?isSelfProfile=false
+    " target="_blank" rel="noopener">Dr. Shehryar Khattak</a> (NASA JPL)</span>
   </div>
 
   <div class="card-row">
