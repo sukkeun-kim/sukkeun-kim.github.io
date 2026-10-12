@@ -48,10 +48,10 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 <!-- CSS Styling -->
 <style>
 .card-box {
-  border: 1px solid #555;
+  border: 1px solid #444;
   border-radius: 6px;
   padding: 10px 14px;
-  background-color: #333;
+  background-color: #222;
   color: #ddd;
   margin-top: 6px;
   margin-bottom: 10px;
@@ -66,13 +66,17 @@ My primary research interests include nonlinear [state estimation](https://en.wi
   color: #999;
   margin-right: 6px;
 }
+
+/* Allows normal links inside the box to match your theme's default hyperlink color */
 .card-box a {
-  color: #ddd;
+  /* color removed so it inherits the normal text link color from your theme */
   text-decoration: underline;
 }
 .card-box a:hover {
-  color: #fff;
+  text-decoration: underline;
 }
+
+/* Pub badge stays styled independently */
 .pub-badge {
   display: inline-block;
   font-size: 0.7em;
