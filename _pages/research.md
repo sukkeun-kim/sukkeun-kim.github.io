@@ -48,11 +48,11 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 <!-- CSS Styling -->
 <style>
 .card-box {
-  border: 1px solid #30363d;
+  border: 1px solid #444;        /* Matches filter button border */
   border-radius: 6px;
   padding: 10px 14px;         /* Tighter vertical and horizontal padding */
-  background-color: #161b22;  /* Matching theme background */
-  color: #c9d1d9;             
+  background-color: #222;     /* Matches filter button background */
+  color: #ddd;                /* Matches filter button text color */
   margin-top: 6px;
   margin-bottom: 10px;
 }
@@ -63,32 +63,33 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 }
 .card-label {
   font-weight: 600;
-  color: #8b949e;             /* Muted label color */
+  color: #999;                /* Slightly muted for labels */
   margin-right: 6px;
 }
 .card-box a {
-  color: #58a6ff;
-  text-decoration: none;
+  color: #ddd;                /* Matches filter button text color */
+  text-decoration: underline;
 }
 .card-box a:hover {
-  text-decoration: underline;
+  color: #fff;                /* Brightens on hover */
 }
 .pub-badge {
   display: inline-block;
   font-size: 0.75em;
   font-weight: 600;
   text-transform: uppercase;
-  background-color: #21262d;  /* Matches SSRN badge style */
-  color: #c9d1d9;
+  background-color: #222;     /* Matches filter button background */
+  color: #ddd;                /* Matches filter button text color */
   padding: 1px 6px;
   border-radius: 4px;
   margin-left: 6px;
   text-decoration: none;
-  border: 1px solid #30363d;
+  border: 1px solid #444;     /* Matches filter button border */
   vertical-align: baseline;
 }
 .pub-badge:hover {
-  background-color: #30363d;
-  border-color: #8b949e;
+  background-color: #333;
+  color: #fff;
+  border-color: #555;
 }
 </style>
