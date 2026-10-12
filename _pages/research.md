@@ -31,14 +31,14 @@ author_profile: true
 }
 </style>
 
-My primary research interests include nonlinear estimation ([state estimation](https://en.wikipedia.org/wiki/State_observer) and [nonlinear filtering](https://en.wikipedia.org/wiki/Nonlinear_filter)), [GNC](https://en.wikipedia.org/wiki/Guidance,_navigation,_and_control), [robotic navigation/localisation](https://en.wikipedia.org/wiki/Robot_navigation) and their applications. Following are key topics I have worked on so far:
+My primary research interests include nonlinear [state estimation](https://en.wikipedia.org/wiki/State_observer), [GNC](https://en.wikipedia.org/wiki/Guidance,_navigation,_and_control), [robotic navigation/localisation](https://en.wikipedia.org/wiki/Robot_navigation) and their applications. Following are key topics I have worked on so far:
 
 - Particle flow-based filters
 - Gaussian mixture filters
 - Source localisation (robot navigation)
 - Vision-based relative navigation
 
-<!-- Gaussian mixture filtesrs -->
+<!-- Gaussian mixture filters -->
 <details>
 <summary><b>Gaussian Mixture Filters</b></summary>
 
@@ -47,17 +47,17 @@ Test
 
 <div class="card-box">
 
-### Collaborators
-[Professor Hyo-Sang Shin](#) & [Professor Ivan Petrunin](#) (Cranfield University)
+  <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 18px; font-weight: 700; color: #555555;">Collaborators</h3>
+  <p><a href="#">Professor Hyo-Sang Shin</a> &amp; <a href="#">Professor Ivan Petrunin</a> (Cranfield University)</p>
 
-### Affiliations
-Cranfield University & NASA JPL
+  <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 18px; font-weight: 700; color: #555555;">Affiliations</h3>
+  <p>Cranfield University &amp; NASA JPL</p>
 
-### Software
-Github
+  <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 18px; font-weight: 700; color: #555555;">Software</h3>
+  <p>Github</p>
 
-### Papers
-2026 &nbsp;&nbsp; ***Test*** <span class="badge-arxiv">arXiv</span>
+  <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 18px; font-weight: 700; color: #555555;">Papers</h3>
+  <p>2026 &nbsp;&nbsp;<em>Test</em> <span class="badge-arxiv">arXiv</span></p>
 
 </div>
 
