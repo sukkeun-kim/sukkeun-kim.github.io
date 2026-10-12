@@ -75,17 +75,17 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 }
 .pub-badge {
   display: inline-block;
-  font-size: 0.75em;
+  font-size: 0.7em;
   font-weight: 600;
   text-transform: uppercase;
-  background-color: #222;     /* Matches filter button background */
-  color: #ddd;                /* Matches filter button text color */
-  padding: 1px 6px;
-  border-radius: 4px;
-  margin-left: 6px;
+  background: #222;        /* Matches filter button background */
+  color: #ddd;
+  padding: 1px 5px;
+  border-radius: 3px;
+  margin-left: 3px;
   text-decoration: none;
-  border: 1px solid #444;     /* Matches filter button border */
-  vertical-align: baseline;
+  border: 1px solid #444;    /* Matches filter button border */
+  vertical-align: middle;
 }
 .pub-badge:hover {
   background-color: #333;

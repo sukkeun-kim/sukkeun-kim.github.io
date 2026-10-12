@@ -252,13 +252,13 @@ author_profile: true
   font-size: 0.7em;
   font-weight: 600;
   text-transform: uppercase;
-  background: #333;
+  background: #222;        /* Matches filter button background */
   color: #ddd;
   padding: 1px 5px;
   border-radius: 3px;
   margin-left: 3px;
   text-decoration: none;
-  border: 1px solid #555;
+  border: 1px solid #444;    /* Matches filter button border */
   vertical-align: middle;
 }
 .pub-badge:hover {
@@ -273,36 +273,3 @@ author_profile: true
   font-weight: bold;
 }
 </style>
-
-<script>
-function filterPubs(tag, element) {
-  // Update active state cleanly for all buttons
-  let buttons = document.querySelectorAll('.pub-filter-btn');
-  buttons.forEach(btn => {
-    btn.classList.remove('active');
-    btn.style.background = '#222';
-    btn.style.color = '#ddd';
-    btn.style.borderColor = '#444';
-  });
-  
-  element.classList.add('active');
-  element.style.background = '#fff';
-  element.style.color = '#000';
-  element.style.borderColor = '#fff';
-
-  // Filter items
-  let items = document.querySelectorAll('.pub-item');
-  items.forEach(item => {
-    if (tag === 'all') {
-      item.style.display = 'flex';
-    } else {
-      let itemTags = item.getAttribute('data-tags');
-      if (itemTags && itemTags.includes(tag)) {
-        item.style.display = 'flex';
-      } else {
-        item.style.display = 'none';
-      }
-    }
-  });
-}
-</script>
