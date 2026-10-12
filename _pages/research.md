@@ -48,30 +48,30 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 <!-- CSS Styling -->
 <style>
 .card-box {
-  border: 1px solid #444;        /* Matches filter button border */
+  border: 1px solid #444;
   border-radius: 6px;
-  padding: 10px 14px;         /* Tighter vertical and horizontal padding */
-  background-color: #222;     /* Matches filter button background */
-  color: #ddd;                /* Matches filter button text color */
+  padding: 10px 14px;
+  background-color: #222;
+  color: #ddd;
   margin-top: 6px;
   margin-bottom: 10px;
 }
 .card-row {
-  margin-bottom: 6px;         /* Tight vertical spacing between rows */
+  margin-bottom: 6px;
   font-size: 14px;
   line-height: 1.4;
 }
 .card-label {
   font-weight: 600;
-  color: #999;                /* Slightly muted for labels */
+  color: #999;
   margin-right: 6px;
 }
 .card-box a {
-  color: #ddd;                /* Matches filter button text color */
+  color: #ddd;
   text-decoration: underline;
 }
 .card-box a:hover {
-  color: #fff;                /* Brightens on hover */
+  color: #fff;
 }
 .pub-badge {
   display: inline-block;
@@ -88,8 +88,8 @@ My primary research interests include nonlinear [state estimation](https://en.wi
   vertical-align: middle;
 }
 .pub-badge:hover {
-  background-color: #333;
-  color: #fff;
-  border-color: #555;
+  background: #fff;
+  color: #000;
+  border-color: #fff;
 }
 </style>
