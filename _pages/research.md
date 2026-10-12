@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My primary research interests include nonlinear [state estimation](https://en.wikipedia.org/wiki/State_observer), [robotic navigation (or localisation)](https://en.wikipedia.org/wiki/Robot_navigation), vision-based navigation and their applications. Following are key topics I have worked on so far:
+My primary research interests include nonlinear [state estimation](https://en.wikipedia.org/wiki/State_observer){:target="_blank" rel="noopener"}, [robotic navigation (or localisation)](https://en.wikipedia.org/wiki/Robot_navigation){:target="_blank" rel="noopener"}, vision-based navigation and their applications. Following are key topics I have worked on so far:
 
 - Particle flow-based filters
 - Gaussian mixture filters
@@ -21,7 +21,7 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 <div class="card-box">
   <div class="card-row">
     <span class="card-label">Collaborators:</span> 
-    <span><a href="https://isas.iar.kit.edu/Staff_Hanebeck.php">Professor Uwe D. Hanebeck</a> and <a href="https://isas.iar.kit.edu/Staff_Frisch.php">Dr.-Ing. Daniel Frisch</a> (KIT)</span>
+    <span><a href="https://isas.iar.kit.edu/Staff_Hanebeck.php" target="_blank" rel="noopener">Prof. Dr.-Ing. Uwe D. Hanebeck</a> and <a href="https://isas.iar.kit.edu/Staff_Frisch.php" target="_blank" rel="noopener">Dr.-Ing. Daniel Frisch</a> (KIT)</span>
   </div>
 
   <div class="card-row">
@@ -31,7 +31,7 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 
   <div class="card-row">
     <span class="card-label">Software:</span> 
-    <span><a href="https://github.com/sukkeun-kim/PFF_Comparison">Github</a></span>
+    <span><a href="https://github.com/sukkeun-kim/PFF_Comparison" target="_blank" rel="noopener">Comparison framework (GitHub)</a></span>
   </div>
 
   <div class="card-row" style="margin-bottom: 0;">
@@ -54,19 +54,19 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 <div class="card-box">
   <div class="card-row">
     <span class="card-label">Collaborators:</span> 
-    <span><a href="https://ais.kaist.ac.kr/people/professor">Professor Hyo-Sang Shin</a> (KAIST, Cranfield University), <a href="https://www.cranfield.ac.uk/people/professor-ivan-petrunin-428715">Professor Ivan Petrunin</a> (Cranfield University), <a href="https://sangwoomoon.wixsite.com/smoon">Dr. Sangwoo Moon</a> and Dr. Shehryar Khattak (NASA JPL)</span>
+    <span><a href="https://ais.kaist.ac.kr/people/professor" target="_blank" rel="noopener">Professor Hyo-Sang Shin</a> (KAIST, Cranfield University), <a href="https://www.cranfield.ac.uk/people/professor-ivan-petrunin-428715" target="_blank" rel="noopener">Professor Ivan Petrunin</a> (Cranfield University), <a href="https://sangwoomoon.wixsite.com/smoon" target="_blank" rel="noopener">Dr. Sangwoo Moon</a> and Dr. Shehryar Khattak (NASA JPL)</span>
   </div>
 
   <div class="card-row">
     <span class="card-label">Affiliations:</span> 
-    <span>Cranfield University and NASA JPL</span>
+    <span>Cranfield University and NASA Jet Propulsion Laboratory (JPL)</span>
   </div>
 
   <div class="card-row">
     <span class="card-label">Software:</span> 
     <span>
-      <a href="https://github.com/sukkeun-kim/CovA-GMF">Github_CovA-GMF</a>, 
-      <a href="https://github.com/sukkeun-kim/PGM-DS">Github_PGM-DS</a>
+      <a href="https://github.com/sukkeun-kim/CovA-GMF" target="_blank" rel="noopener">CovA-GMF (GitHub)</a>, 
+      <a href="https://github.com/sukkeun-kim/PGM-DS" target="_blank" rel="noopener">PGM-DS (GitHub)</a>
     </span>
   </div>
 
