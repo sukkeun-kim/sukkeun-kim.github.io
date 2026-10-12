@@ -33,12 +33,9 @@ author_profile: true
     <div class="pub-content">
       <div class="pub-header">
         <span class="pub-title">The ultimate hitchhiker's guide to particle flow-based filters: A survey*</span>
-        <!--
         <span class="pub-badges">
           <a href="#" class="pub-badge">arXiv</a>
-          <a href="#" class="pub-badge">doi</a>
         </span>
-        -->
       </div>
       <div class="pub-details"><strong>Sukkeun Kim</strong>, Daniel Frisch and Uwe D. Hanebeck, in preparation (2026)</div>
     </div>
