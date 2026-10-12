@@ -244,51 +244,63 @@ author_profile: true
   white-space: nowrap;
 }
 .pub-details {
-  color: #9ca3af !important; /* Smaller, brighter grey */
+  color: #9ca3af !important;
   font-size: 0.88em;
 }
-.pub-badge {
+
+/* Unified Badge and Filter Button Style */
+.pub-badge, .pub-filter-btn {
   display: inline-block;
-  font-size: 0.7em;
+  font-size: 0.75em;
   font-weight: 600;
   text-transform: uppercase;
-  background: #333;
-  color: #ddd;
-  padding: 1px 5px;
-  border-radius: 3px;
-  margin-left: 3px;
+  background-color: #21262d;
+  color: #c9d1d9;
+  padding: 3px 8px;
+  border-radius: 4px;
   text-decoration: none;
-  border: 1px solid #555;
+  border: 1px solid #30363d;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.pub-badge {
+  margin-left: 6px;
   vertical-align: middle;
+  text-transform: uppercase;
 }
-.pub-badge:hover {
-  background: #fff;
-  color: #000;
-  border-color: #fff;
+
+/* Unified Hover State */
+.pub-badge:hover, .pub-filter-btn:hover {
+  background-color: #30363d;
+  color: #ffffff;
+  border-color: #8b949e;
 }
+
+/* Unified Active State */
 .pub-filter-btn.active {
-  background: #fff !important;
-  color: #000 !important;
-  border-color: #fff !important;
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border-color: #ffffff !important;
   font-weight: bold;
 }
 </style>
 
 <script>
 function filterPubs(tag, element) {
-  // Update active state cleanly for all buttons
+  // Update active state cleanly for all filter buttons using the unified color palette
   let buttons = document.querySelectorAll('.pub-filter-btn');
   buttons.forEach(btn => {
     btn.classList.remove('active');
-    btn.style.background = '#222';
-    btn.style.color = '#ddd';
-    btn.style.borderColor = '#444';
+    btn.style.background = '#21262d';
+    btn.style.color = '#c9d1d9';
+    btn.style.borderColor = '#30363d';
   });
   
   element.classList.add('active');
-  element.style.background = '#fff';
-  element.style.color = '#000';
-  element.style.borderColor = '#fff';
+  element.style.background = '#ffffff';
+  element.style.color = '#000000';
+  element.style.borderColor = '#ffffff';
 
   // Filter items
   let items = document.querySelectorAll('.pub-item');
