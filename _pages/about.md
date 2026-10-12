@@ -37,7 +37,7 @@ I am interested in nonlinear estimation problems and aerospace and space applica
 
 My research experience includes roles as a postdoctoral researcher at Karlsruhe Institute of Technology (KIT), a visiting student researcher at NASA’s Jet Propulsion Laboratory (JPL) and the KAIST Graduate School of Mobility, focusing on applications in multi-target tracking, autonomous robotic localisation and space navigation systems. For the further details on my experience and education, please refer to my CV on the left column.
 
-Bottom line, I am also a (ultra-)runner, have finished multiple marathon and ultra distance events. Please check out my <a href="/posts/">Posts</a> for more story! Not only about running, but also about my research and other interests.
+Bottom line, I am also a (ultra-)runner, have finished multiple marathon and ultra distance events. Please check out my <a href="/posts/" target="_blank" rel="noopener">Posts</a> for more story! Not only about running, but also about my research and other interests.
 
 <!-- Last Update Section -->
 <p style="font-size: 0.9em; color: #666; margin-top: 30px;">
