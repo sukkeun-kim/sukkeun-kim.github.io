@@ -48,10 +48,10 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 <!-- CSS Styling -->
 <style>
 .card-box {
-  border: 1px solid #444;
+  border: 1px solid #555;
   border-radius: 6px;
   padding: 10px 14px;
-  background-color: #222;
+  background-color: #333;
   color: #ddd;
   margin-top: 6px;
   margin-bottom: 10px;
