@@ -136,9 +136,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sukkeun-kim-557977182/"
-    - label: "Strava"
-      icon: "fab fa-fw fa-strava"
-      url: "https://www.strava.com/athletes/63082027"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/files/CV_Sukkeun.pdf"
@@ -153,9 +150,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sukkeun-kim-557977182/"
-    - label: "Strava"
-      icon: "fab fa-fw fa-strava"
-      url: "https://www.strava.com/athletes/63082027"
   since: "2026"
 
 

@@ -80,7 +80,7 @@ My primary research interests include nonlinear [state estimation](https://en.wi
 
 <!-- MTT -->
 <details>
-<summary><b>(Multi) Target/Object Tracking</b></summary>
+<summary><b>(Multi-) Target/Object Tracking</b></summary>
 
 <p style="font-size: 0.9em; color: #999; margin-top: 8px; margin-bottom: 8px;">Concept Details shown here</p>
 
